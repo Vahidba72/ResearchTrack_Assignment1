@@ -1,8 +1,22 @@
-**Table of Contents**
+# Table of Contents
+1. [Research Track 1 _ First Assignment ](#Research Track 1 _ First Assignment )
+2. [Installing and running](#Installing and running)
+3. [Exercise](#Exercise)
+4. [Troubleshooting](#Troubleshooting)
+5. [Robot API](#Robot API)
+6. [Motors](##Motors)
+7. [The Grabber](##The Grabber)
+8. [ Vision](## Vision)
+9. [Code Explanation](#Code Explanation)
+10. [drive](##drive)
+11. [turn](##turn)
+12. [Gold_find](##Gold_find)
+13. [Release_Loc_Find](##Release_Loc_Find)
+14. [Gold_grab](##Gold_grab)
+15. [Release_Grabbed_Gold](##Release_Grabbed_Gold)
+16. [main](##main)
 
-[TOCM]
 
-[TOC]
 
 ### Research Track 1 _ First Assignment 
 
