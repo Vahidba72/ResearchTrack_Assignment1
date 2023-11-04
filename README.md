@@ -6,7 +6,7 @@
 5. [Robot_API](#Robot_API)
 6. [Motors](##Motors)
 7. [Grabber](##Grabber)
-8. [ Vision](## Vision)
+8. [Vision](##Vision)
 9. [Coding](#Coding)
 10. [drive](##drive)
 11. [turn](##turn)
