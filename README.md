@@ -8,13 +8,13 @@
 7. [Grabber](##Grabber)
 8. [Vision](##Vision)
 9. [Coding](#Coding)
-10.[drive](##drive)
-11.[turn](##turn)
-12.[Gold_find](##Gold_find)
-13.[Release_Loc_Find](##Release_Loc_Find)
-14.[Gold_grab](##Gold_grab)
-15.[Release_Grabbed_Gold](##Release_Grabbed_Gold)
-16.[main](##main)
+10. [drive](##drive)
+11. [turn](##turn)
+12. [Gold_find](##Gold_find)
+13. [Release_Loc_Find](##Release_Loc_Find)
+14. [Gold_grab](##Gold_grab)
+15. [Release_Grabbed_Gold](##Release_Grabbed_Gold)
+16. [main](##main)
 
 
 
