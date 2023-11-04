@@ -25,7 +25,7 @@ This is the first assignment of Research track 1. The goal of this assignment is
 <figure>
     <img src="sr/First_Config.png"
          
-    <figcaption>First configuration of the robot and environment</figcaption>
+    <figcaption> First configuration of the robot and environment </figcaption>
 </figure>
 
 ![First configuration of the robot and environment](sr/First_Config.png)
