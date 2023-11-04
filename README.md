@@ -24,12 +24,12 @@ This is the first assignment of Research track 1. The goal of this assignment is
 
 <figure>
     <img src="sr/First_Config.png">
-    <figcaption>First configuration of the robot and environment</figcaption>
+    <figcaption>Figure1) First configuration of the robot and environment</figcaption>
 </figure>
 
 <figure>
     <img src="sr/Final_Config.png">
-    <figcaption>Final configuration of the robot and environment</figcaption>
+    <figcaption> Figure2)Final configuration of the robot and environment</figcaption>
 </figure>
 
 
@@ -37,7 +37,7 @@ A flowchart showing the algorithm written for this assignment can be seen in Fig
 
 <figure>
     <img src="sr/Flowchart.png">
-    <figcaption>Flowchart of the algorithm</figcaption>
+    <figcaption> Figure3) Flowchart of the algorithm</figcaption>
 </figure>
 
 Installing&running
