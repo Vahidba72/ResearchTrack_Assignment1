@@ -30,7 +30,7 @@ This is the first assignment of Research track 1. The goal of this assignment is
 > Figure2) The fnal configuration of the robot and environment
 
 A flowchart showing the algorithm written for this assignment can be seen in Figure 3:
-![Flowchart of the algorithm ](sr/Flowchart.jpg)
+![Flowchart of the algorithm ](sr/Flowchart.png)
 > Figure3) Flowchart of the algorithm 
 
 Installing and running
