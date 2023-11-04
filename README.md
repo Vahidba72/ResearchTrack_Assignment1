@@ -8,8 +8,10 @@
 
 This is the first assignment of Research track 1. The goal of this assignment is to gather all the golden boxes in one location next to each other. The environemnt and the initial configuration and formation of the boxes can be seen in Figure 1.  The portable robot simulator is used for this assignment which is developed by [Student Robotics](https://studentrobotics.org). 
 
-Image:
+
 ![First configuration of the robot and environment](sr/First_Config.png)
+
+![Final configuration of the robot and environment](sr/Final_Config.png)
 
 Installing and running
 ----------------------
