@@ -21,6 +21,7 @@
 ### Research_Track1_First_Assignment 
 
 This is the first assignment of Research track 1. The goal of this assignment is to gather all the golden boxes in one location next to each other. The environemnt and the initial and final configuration and formation of the boxes can be seen in Figure 1 and Figure2.  The portable robot simulator is used for this assignment which is developed by [Student Robotics](https://studentrobotics.org). 
+
 <figure>
     <img src="sr/First_Config.png">
     <figcaption>First configuration of the robot and environment</figcaption>
@@ -30,6 +31,7 @@ This is the first assignment of Research track 1. The goal of this assignment is
     <img src="sr/Final_Config.png">
     <figcaption>Final configuration of the robot and environment</figcaption>
 </figure>
+
 
 A flowchart showing the algorithm written for this assignment can be seen in Figure 3:
 
