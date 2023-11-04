@@ -27,20 +27,11 @@ This is the first assignment of Research track 1. The goal of this assignment is
 ![](sr/First_Config.png)
 > Figure1) First configuration of the robot and environment
 
+![](sr/Final_Config.png)
+> Figure2)Final configuration of the robot and environment
 
-<figure>
-    <img src="sr/Final_Config.png">
-    <figcaption> Figure2)Final configuration of the robot and environment</figcaption>
-</figure>
-
-
-
-A flowchart showing the algorithm written for this assignment can be seen in Figure 3:
-
-<figure>
-    <img src="sr/Flowchart.png">
-    <figcaption> Figure3) Flowchart of the algorithm</figcaption>
-</figure>
+![](sr/Flowchart.png)
+> Figure3) Flowchart of the algorithm
 
 Installing&running
 ----------------------
