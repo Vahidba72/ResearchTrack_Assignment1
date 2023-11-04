@@ -3,11 +3,11 @@
 2. [Installing and running](#Installing and running)
 3. [Exercise](#Exercise)
 4. [Troubleshooting](#Troubleshooting)
-5. [Robot API](#Robot API)
+5. [Robot_API](#Robot_API)
 6. [Motors](##Motors)
-7. [The Grabber](##The Grabber)
+7. [Grabber](##Grabber)
 8. [ Vision](## Vision)
-9. [Code Explanation](#Code Explanation)
+9. [Coding](#Coding)
 10. [drive](##drive)
 11. [turn](##turn)
 12. [Gold_find](##Gold_find)
@@ -58,7 +58,7 @@ On Ubuntu, this can be accomplished by:
 * Create symlink: `ln -s path/to/simulator/sr/robot /usr/local/lib/python2.7/dist-packages/sr/`
 
 
-Robot API
+Robot_API
 ---------
 
 The API for controlling a simulated robot is designed to be as similar as possible to the [SR API][sr-api].
@@ -74,7 +74,7 @@ R.motors[0].m0.power = 25
 R.motors[0].m1.power = -25
 ```
 
-### The Grabber ###
+### Grabber ###
 
 The robot is equipped with a grabber, capable of picking up a token which is in front of the robot and within 0.4 metres of the robot's centre. To pick up a token, call the `R.grab` method:
 
@@ -119,7 +119,7 @@ for m in markers:
     elif m.info.marker_type == MARKER_ARENA:
         print " - Arena marker {0} is {1} metres away".format( m.info.offset, m.dist )
 ```
-Code Explanation
+Coding
 ----------------------
 As mentioned above, the goal of this assignment is for the robot to put all the golden boxes next to each other. For this reason a few functions are defined to make the code more smooth and understandable.
 At first two parameters are defined as thresholds. `a_th` and `d_th` are the angle and distance threshold, respectively. These parameters can help the robot know when it's close enough to the target so that it can grab the target.
