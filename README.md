@@ -27,7 +27,7 @@ To run one or more scripts in the simulator, use `run.py`, passing it the file n
 you can run the program with:
 
 ```bash
-$ python run.py assignment.py
+$ python2 run.py assignment.py
 ```
 
 ## Troubleshooting
