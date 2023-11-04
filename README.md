@@ -27,10 +27,14 @@ This is the first assignment of Research track 1. The goal of this assignment is
     <figcaption>Figure1) First configuration of the robot and environment</figcaption>
 </figure>
 
+
+
+
 <figure>
     <img src="sr/Final_Config.png">
     <figcaption> Figure2)Final configuration of the robot and environment</figcaption>
 </figure>
+
 
 
 A flowchart showing the algorithm written for this assignment can be seen in Figure 3:
