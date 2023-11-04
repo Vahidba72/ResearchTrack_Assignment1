@@ -1,6 +1,6 @@
 # Table of Contents
-1. [Research Track 1 _ First Assignment ](#Research Track 1 _ First Assignment )
-2. [Installing and running](#Installing and running)
+1. [Research_Track 1_First_Assignment ](#Research_Track1_First_Assignment )
+2. [Installing and running](#Installing&running)
 3. [Exercise](#Exercise)
 4. [Troubleshooting](#Troubleshooting)
 5. [Robot_API](#Robot_API)
@@ -18,7 +18,7 @@
 
 
 
-### Research Track 1 _ First Assignment 
+### Research_Track1_First_Assignment 
 
 This is the first assignment of Research track 1. The goal of this assignment is to gather all the golden boxes in one location next to each other. The environemnt and the initial and final configuration and formation of the boxes can be seen in Figure 1 and Figure2.  The portable robot simulator is used for this assignment which is developed by [Student Robotics](https://studentrobotics.org). 
 
@@ -33,7 +33,7 @@ A flowchart showing the algorithm written for this assignment can be seen in Fig
 ![Flowchart of the algorithm ](sr/Flowchart.png)
 > Figure3) Flowchart of the algorithm 
 
-Installing and running
+Installing&running
 ----------------------
 The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/). Pygame, unfortunately, can be tricky (though [not impossible](http://askubuntu.com/q/312767)) to install in virtual environments. If you are using `pip`, you might try `pip install hg+https://bitbucket.org/pygame/pygame`, or you could use your operating system's package manager. Windows users could use [Portable Python](http://portablepython.com/). PyPyBox2D and PyYAML are more forgiving, and should install just fine using `pip` or `easy_install`.
 
